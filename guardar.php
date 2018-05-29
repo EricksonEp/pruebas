@@ -31,7 +31,7 @@
 
 <html lang="es">
 	<head>
-		
+    <meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/bootstrap-theme.css" rel="stylesheet">
@@ -56,3 +56,4 @@
 		</div>
 	</body>
 </html>
+
